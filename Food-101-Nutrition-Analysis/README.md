@@ -3,9 +3,6 @@
 ## 📊 Sobre o Projeto
 Este dashboard interativo foi desenvolvido para análise nutricional do dataset Food-101, focando em auxiliar nutricionistas e pacientes na escolha de alimentos com base em seus valores nutricionais e combinações saudáveis.
 
-## 👨‍💻 Autor
-[Jan Pereira](https://github.com/janpereira82)
-
 ## 🎯 Principais Funcionalidades
 
 ### 1. Filtros Nutricionais
